@@ -1,0 +1,10 @@
+com\ufes\contabancaria\model\IContaCorrenteProxy.class
+com\ufes\contabancaria\proxy\ContaCorrenteProxy.class
+com\ufes\contabancaria\singleton\UsuarioLogado.class
+com\ufes\contabancaria\model\TipoOperacao.class
+com\ufes\contabancaria\model\ContaCorrente.class
+com\ufes\contabancaria\Principal.class
+com\ufes\contabancaria\model\Usuario.class
+com\ufes\contabancaria\security\GerenciadorSeguranca.class
+com\ufes\contabancaria\security\IGerenciadorSeguranca.class
+com\ufes\contabancaria\model\Operacao.class
